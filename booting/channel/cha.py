@@ -32,7 +32,7 @@ Keep eye on us to get to use new and interesting bots.
 🦋==👓======🕶======👓==🦋                             
 """       
     await ydl.reply_photo(
-    "https://telegra.ph/file/888808883d8d70ff35637.jpg",
+    "https://telegra.ph/file/9f1ac4173a2dd520d67b4.jpg",
     reply_markup=joinButton,
     caption=GBOOK
     )

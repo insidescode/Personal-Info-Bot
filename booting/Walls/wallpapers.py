@@ -23,7 +23,7 @@ async def wallpapers(_,ydl: Message):
           "👓『 𝐖𝐚𝐥𝐥𝐩𝐚𝐩𝐞𝐫𝐬 』👓",
           url="https://t.me/vrtxwalls")]
         ])
-    await ydl.reply_photo(
+    await ydl.reply_animation(
     LINK,
     reply_markup=joinButton,
     caption=WALI

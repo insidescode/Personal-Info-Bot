@@ -15,7 +15,7 @@ async def book(_, ydl: Message):
     joinButton = InlineKeyboardMarkup([
         [InlineKeyboardButton(
           "👓『 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 』👓",
-          url="https://github.com/HypeVoidLab")]
+          url="https://t.me/HypeVoidLab")]
         ])
     GBOOK = f"""
 🦋==👓======🕶======👓==🦋

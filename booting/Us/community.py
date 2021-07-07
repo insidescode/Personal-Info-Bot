@@ -29,7 +29,7 @@ async def us(_,ydl: Message):
           "👓『 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 』👓",
           url="https://t.me/hypevoidlab")],
         ])
-    await ydl.reply_photo(
+    await ydl.reply_animation(
     LINK,
     reply_markup=joinButton,
     caption=COMMS

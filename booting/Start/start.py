@@ -35,7 +35,7 @@ async def start(_, ydl: Message):
                               
 🦋==👓======🕶======👓==🦋                             
 """       
-    await ydl.reply_photo(
+    await ydl.reply_animation(
     LINK,
     reply_markup=joinButton,
     caption=START

@@ -1,0 +1,33 @@
+{
+    "name": "一═デ︻ Wê Ärê H¥þêVðïÐ§ ︻デ═一",
+    "description": "Get your stuffs in a single bot",
+    "repository": "https://github.com/HypeVoidSoul/Telegram-Personal-Info_Bot.git",
+    "logo": "https://telegra.ph/file/466ae2f7dd5dd096e33e6.jpg",
+    "website": "https://t,me/hypevoids",
+    "keywords": [
+      "telegram",
+      "personal_bot",
+      "pyrogram",
+      "telegram-bot",
+      "information"
+    ],
+    "env": {
+      "API_ID": {
+              "description": "api_id part of your Telegram API Key from my.telegram.org/apps",
+              "required": true
+      },
+      "API_HASH": {
+              "description": "api_hash part of your Telegram API Key from my.telegram.org/apps",
+              "required": true
+      },
+      "BOT_TOKEN": {
+              "description": "Your BotFather Token.",
+              "required": true
+      }  
+    },
+    "buildpacks": [
+      {
+        "url": "heroku/python"
+      }
+    ]
+}

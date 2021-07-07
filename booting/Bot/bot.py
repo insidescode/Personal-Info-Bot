@@ -37,7 +37,7 @@ async def us(_,ydl: Message):
           url="https://t.me/SPOTIFYLI_BOT")],
         [InlineKeyboardButton(
           "👓『 Klaw Robot 』👓",
-          url="https://t.me/JOKERLI_BOT")],
+          url="https://t.me/KLAWLI_BOT")],
         [InlineKeyboardButton(
           "👓『 Image 2 Url 』👓",
           url="https://t.me/i2url_bot")],

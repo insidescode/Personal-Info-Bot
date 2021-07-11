@@ -1,4 +1,5 @@
-from pyrogram import Client, idle
+from pyrogram import Client
+from pyrogram.methods.utilities import idle
 from booting import *
 
 boot = Client(

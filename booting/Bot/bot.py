@@ -28,28 +28,28 @@ async def us(_,ydl: Message):
           url="https://t.me/xeronoidbot")],
         [InlineKeyboardButton(
           "👓『 YouTube Downloader 』👓",
-          url="https://t.me/YOUTUBELI_BOT")],
+          url="https://t.me/HVYOUTUBEBOT")],
         [InlineKeyboardButton(
           "👓『YouTubeMusic Downloader 』👓",
-          url="https://t.me/YTMLI_BOT")],        
+          url="https://t.me/HVYOUTUBEMUSICBOT")],        
         [InlineKeyboardButton(
           "👓『 Spotify Downloader』👓",
-          url="https://t.me/SPOTIFYLI_BOT")],
+          url="https://t.me/HVSPOTIFYBOT")],
         [InlineKeyboardButton(
           "👓『 Klaw Robot 』👓",
-          url="https://t.me/KLAWLI_BOT")],
+          url="https://t.me/HVKLAWBOT")],
         [InlineKeyboardButton(
           "👓『 Image 2 Url 』👓",
-          url="https://t.me/i2url_bot")],
+          url="https://t.me/HVIMAGETOURLBOT")],
         [InlineKeyboardButton(
           "👓『 image 2 Pdf 』👓",
-          url="https://t.me/i2pdf_bot")],
+          url="https://t.me/HVPDFBOT")],
         [InlineKeyboardButton(
           "👓『 Heroku Usage Bot 』👓",
-          url="https://t.me/HerokuInfoBot")],
+          url="https://t.me/HVHEROKUBOT")],
         [InlineKeyboardButton(
           "👓『 Telegram AFK Bot 』👓",
-          url="https://t.me/HYPEAFKBOT")]
+          url="https://t.me/HVAFKBOT")]
         ])
     await ydl.reply_animation(
     LINK,

@@ -19,9 +19,7 @@
     ~> 𝙲𝙷𝙰𝙽𝙽𝙴𝙻
     ~> 𝙱𝙾𝚃
 - SORRY TO SAY BUT YOU WILL NEED TO AS USUAL FORK, AND THEN EDIT THE CODE TO INPUT YOUR INFO.
-```
 
-```sh
 ╰✨✨♢--------------------------------------------------------------------♢✨✨╮
 ```
 

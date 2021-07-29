@@ -1,1 +1,1 @@
-worker: python3 -m HypeVoids
+web: python3 -m HypeVoids
